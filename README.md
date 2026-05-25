@@ -9,7 +9,8 @@ Este proyecto fue desarrollado como parte de la Actividad 4 de la asignatura de 
 - **Facultad:** Facultad de Ingeniería
 - **Asignatura:** Electiva - Desarrollo de aplicaciones web
 - **Profesora:** Diana Toquica
-- **Estudiante:** Gabriel Gaitan Vengoechea (1101622148)
+- **Estudiante:** Gabriel Gaitan Vengoechea
+- 
 - **Fecha:** Mayo, 2026
 
 ## 🚀 Tecnologías y Herramientas Aplicadas
